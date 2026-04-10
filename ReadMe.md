@@ -1,6 +1,6 @@
 <!-- 🎮 GAME UI HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=안녕하세요&fontColor=000000&fontAlign=50&fontSize=70&rotate=0&desc=뭐뭐하는%20뭐시기%20뭐시기입니다.&animation=scaleIn&section=header&descSize=31&fontAlignY=45&textBg=false&reversal=false&descAlignY=63" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=안녕하세요&fontColor=000000&fontAlign=50&fontSize=70&rotate=0&desc=게임엔진으로%20콘텐츠%20만듭니다.&animation=scaleIn&section=header&descSize=31&fontAlignY=45&textBg=false&reversal=false&descAlignY=63" />
 
 <!-- 🕹 START MENU -->
 

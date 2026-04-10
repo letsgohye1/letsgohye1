@@ -49,13 +49,6 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge\&logo=blender)
 ![Substance](https://img.shields.io/badge/Substance%203D%20Painter-FF6C37?style=for-the-badge\&logo=adobe)
 
-### 🤖 AI
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai)
-
-### 🌐 Web
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
 
 ---
 
